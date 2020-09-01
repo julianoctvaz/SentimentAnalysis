@@ -1,6 +1,6 @@
 # SentimentAnalysis
 
-That is a basic xcode project that analysis an text sentence with three possible labels to result: neutral, positive and negative. The fisrt label on screen its the answer by an natural language processing model (NLP) by Apple, and the second was created by me.
+That is a basic xcode project that analysis an text sentence with three possible labels to result: neutral, positive and negative. The fisrt label on screen its the answer by an natural language processing model (NLP) by Apple, and the second label its the aswer by a model created by me.
 
 ## Knowlegdement and Information
 
